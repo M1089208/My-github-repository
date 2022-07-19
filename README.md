@@ -1,1 +1,1 @@
-# My-gtihub-repository
+# My-github-repository
